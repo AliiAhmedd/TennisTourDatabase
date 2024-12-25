@@ -1,0 +1,1 @@
+In the following attachements you will find the CSV files which include the populated database. When you run the python file it should create the databses in MySQL through the MySQL connector and populate the data in the CSV files. Furthermore, the code includes advanced queries which are visually displayed automatically when the code is executed using PyCharm.
